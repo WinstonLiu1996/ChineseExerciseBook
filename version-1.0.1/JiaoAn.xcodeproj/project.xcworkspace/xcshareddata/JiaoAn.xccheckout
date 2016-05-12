@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>A92C0F6B-2182-43B2-B980-DDF7140B91B9</string>
+	<key>IDESourceControlProjectName</key>
+	<string>JiaoAn</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>565C57E1EA70EEC4440EBF216EC46F932DECCEA1</key>
+		<string>https://bitbucket.org/omzmarlon/tptj-jiaoan.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>JiaoAn.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>565C57E1EA70EEC4440EBF216EC46F932DECCEA1</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://bitbucket.org/omzmarlon/tptj-jiaoan.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>565C57E1EA70EEC4440EBF216EC46F932DECCEA1</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>565C57E1EA70EEC4440EBF216EC46F932DECCEA1</string>
+			<key>IDESourceControlWCCName</key>
+			<string>TPTJ%20Virgin%20Project</string>
+		</dict>
+	</array>
+</dict>
+</plist>
